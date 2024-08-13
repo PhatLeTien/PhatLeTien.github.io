@@ -7,11 +7,10 @@ Welcome to the Traveling VietNamese project repository! This is an HTML/CSS base
 - **Framework:** HTML/CSS
 - **Deployment:** GitHub Pages
 
-
 ## Screenshots
 
-### Hero Section
-![Hero Section](./path/to/hero-section.png)
+### Home
+![Home](./path/to/hero-section.png)
 
 ### Information Section
 ![Information Section](./path/to/information-section.png)
