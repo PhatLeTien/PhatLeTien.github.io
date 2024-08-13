@@ -12,14 +12,17 @@ Welcome to the Traveling VietNamese project repository! This is an HTML/CSS base
 ### Home
 ![Home](https://github.com/PhatLeTien/PhatLeTien.github.io/blob/main/Traveling%20VietNamese/Home-1.png)
 
-### Information Section
-![Information Section](./path/to/information-section.png)
+### Image
+![Image](https://github.com/PhatLeTien/PhatLeTien.github.io/blob/main/Traveling%20VietNamese/Image.png)
 
-### Why Choose Health Plus?
-![Why Choose Health Plus](./path/to/why-choose-section.png)
+### Contact
+![Contact](https://github.com/PhatLeTien/PhatLeTien.github.io/blob/main/Traveling%20VietNamese/Contact.png)
 
-### Reviews Section
-![Reviews Section](./path/to/reviews-section.png)
+### Miền Nam
+![Miền Nam](https://github.com/PhatLeTien/PhatLeTien.github.io/blob/main/Traveling%20VietNamese/SaiGon.png)
 
-### Doctors Section
-![Doctors Section](./path/to/doctors-section.png)
+### Miền Bắc
+![Miền Bắc](https://github.com/PhatLeTien/PhatLeTien.github.io/blob/main/Traveling%20VietNamese/CaoBang.png)
+
+### Miền Trung
+![Miền Trung](https://github.com/PhatLeTien/PhatLeTien.github.io/blob/main/Traveling%20VietNamese/ThanhHoa.png)
