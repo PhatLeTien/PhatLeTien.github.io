@@ -10,7 +10,7 @@ Welcome to the Traveling VietNamese project repository! This is an HTML/CSS base
 ## Screenshots
 
 ### Home
-![Home](./path/to/hero-section.png)
+![Home]([./path/to/hero-section.png](https://github.com/PhatLeTien/PhatLeTien.github.io/blob/main/Traveling%20VietNamese/Home-1.png))
 
 ### Information Section
 ![Information Section](./path/to/information-section.png)
