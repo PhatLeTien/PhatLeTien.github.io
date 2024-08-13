@@ -3,18 +3,10 @@
 Welcome to the Traveling VietNamese project repository! This is an HTML/CSS based website that aims to provide information about the rich and beautiful spots of beautiful Vietnam.
 ## Project Overview
 
-- **Website:** [https://phatletien.github.io/](#)
-- **Framework:** React.js
+- **Website:** [https://phatletien.github.io/index.html](#)
+- **Framework:** HTML/CSS
 - **Deployment:** GitHub Pages
-- **Libraries:** React-Toastify, React Router DOM, FontAwesomeIcon
 
-## Features
-
-- Easily schedule appointments with the specialists.
-- Engage in virtual consultations to receive expert medical advice.
-- Responsive UI design for seamless user experience across devices.
-- Utilizes React-Toastify for notifications, React Router DOM for page routing, and FontAwesomeIcon for icons.
-- Deployed using GitHub Pages for easy access and sharing.
 
 ## Screenshots
 
