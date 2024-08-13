@@ -3,7 +3,7 @@
 Welcome to the Traveling VietNamese project repository! This is an HTML/CSS based website that aims to provide information about the rich and beautiful spots of beautiful Vietnam.
 ## Project Overview
 
-- **Website:** [https://phatletien.github.io/index.html](#)
+- **Website:** [Traveling VietNamese](https://phatletien.github.io/)
 - **Framework:** HTML/CSS
 - **Deployment:** GitHub Pages
 
